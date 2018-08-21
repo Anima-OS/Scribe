@@ -1,3 +1,11 @@
+#!/usr/bin/env python2
+# -*- coding: utf-8 -*-
+
+#Copyright (c) 2018, Mark "Happy-Ferret" Bauermeister
+#
+#This software may be modified and distributed under the terms
+#of the BSD license.  See the LICENSE file for details.
+
 ## I use this when I need some embedded language
 # Original (c) Peter Norvig, 2010; See http://norvig.com/lispy2.html
 

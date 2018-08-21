@@ -1,0 +1,10 @@
+{
+    "Dir": ".",
+    "Template": ".header.txt",
+    "Includes": [
+        "*.py",
+	"*/*.py"
+    ],
+    "Excludes": [],
+    "UseDefaultExcludes": true
+  }
