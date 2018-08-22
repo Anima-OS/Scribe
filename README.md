@@ -1,10 +1,11 @@
-notification-thing
---------------------
+![Logo](logo.svg)
 
-Gtk3/Python (PyGI) notification daemon with flexible (scriptable) filtering,
-rate-limiting and misc other cool features, not tied to any particular DE.
+![Wordmark](wordmark.svg)
 
-![showcase image](showcase.jpg)
+Anima Notification Service
+===
+
+![showcase image](screenshot.png)
 
 Features:
 
